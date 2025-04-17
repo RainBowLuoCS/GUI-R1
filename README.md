@@ -1,4 +1,4 @@
-# RUN1-R1: A Generalist R1-style Vision-Language Action Model For GUI Agents
+# GUI-R1: A Generalist R1-style Vision-Language Action Model For GUI Agents
 
 <font size=4><div align='center' > [[🤗 Demo]()] [[🤗 Data]()] [[🤗 Checkpoint]()] </div></font>
 
